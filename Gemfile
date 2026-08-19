@@ -27,7 +27,16 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Performance-booster for watching directories on Windows
 # Version updated to 0.2: https://github.com/luost26/academic-homepage/issues/23
+gem 'eventmachine', github: 'eventmachine/eventmachine'
 gem "wdm", "~> 0.2" if Gem.win_platform?
 
 gem "webrick", "~> 1.7"
 gem "kramdown-parser-gfm"
+
+
+
+
+
+gem "base64", "~> 0.3.0"
+
+gem "bigdecimal", "~> 4.1"

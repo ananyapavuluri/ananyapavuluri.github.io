@@ -13,12 +13,24 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-baseurl: "/academic-homepage" # the subpath of your site, e.g. /blog
+title: Ananya Pavuluri
+email: ananya_pavuluri@brown.edu
+description: >-
+  PhD Candidate in Computational Biology at Brown University.
+baseurl: "" # Keep empty for username.github.io repositories
+url: "https://ananyapavuluri.github.io"
 
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-email-protect
+
+collections:
+  - publications
+  - news
+  - showcase
+  - posts
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -33,9 +45,3 @@ plugins:
 #   - vendor/ruby/
 
 # timezone: Asia/Shanghai
-
-collections:
-  - publications
-  - news
-  - showcase
-  - posts

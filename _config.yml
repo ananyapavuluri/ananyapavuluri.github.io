@@ -23,7 +23,7 @@ url: "https://ananyapavuluri.github.io"
 # Build settings
 markdown: kramdown
 plugins:
-  - jekyll-email-protect
+  # - jekyll-email-protect
 
 collections:
   - publications

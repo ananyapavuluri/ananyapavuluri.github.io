@@ -1,6 +1,6 @@
 ---
 title:          "Hallmarks of aging: A user's guide for comparative biologists"
-date:           2024-12-04 00:00:00 +0000
+date:           2025
 selected:       true
 pub:            "Ageing Research Reviews"
 # pub_pre:        "Submitted to "
@@ -9,7 +9,7 @@ pub_date:       "2025"
 semantic_scholar_id: c793a449d2e52ace612bd318fc0b7f8438ccf598
 abstract: >-
   A comprehensive review evaluating the twelve canonical hallmarks of aging across non-traditional animal species, examining current methodologies and identifying key opportunities for comparative biologists to study diverse lifespan trajectories.
-cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/hallmarksofagingcover.jpg
 pub_last: ' <span class="badge badge-pill badge-publication badge-success">Review</span> (* Equal contribution)'
 authors:
   - Peggy R. Biga*

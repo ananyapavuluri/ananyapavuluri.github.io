@@ -1,7 +1,7 @@
 ---
 title:          "Embryos assist morphogenesis of others through calcium and ATP signaling mechanisms in collective teratogen resistance"
 date:           2024-01-16 00:00:00 +0000
-selected:       true
+selected:       false
 pub:            "Nature Communications"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

@@ -21,12 +21,22 @@ linkedin: ananya-pavuluri
 short_bio_text_justify: false
 short_bio: >-
   <p>
-   I am a 5th-year PhD Candidate in Computational Biology at Brown University. 
-   I leverage computational methods to understand sex differences in gene regulation across broad contexts. I am particularly interested in the role of sex differences in aging and age-related diseases. 
-   I have worked with large-scale multiomics datasets, built explainable machine learning and deep learning models to find candidate sex-specific biomarkers of aging, and developed bioinformatics pipelines to analyze sex differences across mammalian evolution. 
-   I am particularly interested in the contribution of X chromosome dosage compensation to sex-biased gene expression and its implications.  
-   While I am primarily a computational biologist, I have an extensive wet lab background and my ultimate goal is to validate my computational findings in the lab.
-   Outside of my research, you can find me reading in the park, knitting sweaters, taking a pilates class, or playing with my two tuxedo cats, Bheem and Inkblot.
+    I am a 5th-year PhD Candidate in <a href="https://ccmb.brown.edu/" target="_blank">Computational Biology at Brown University</a>. My co-advisors are <a href="https://www.larschanlab.com/" target="_blank">Dr. Erica Larschan</a> and <a href="https://rsinghlab.org/" target="_blank">Dr. Ritambhara Singh</a>.
+  </p>
+  <p>
+    I leverage computational methods to understand sex differences in gene regulation across broad contexts.
+  </p>
+  <p>
+    👩🏽‍💻 I have worked with large-scale multiomics datasets, built explainable machine learning and deep learning models to find candidate sex-specific biomarkers of aging, and developed bioinformatics pipelines to analyze sex differences across mammalian evolution.
+  </p>
+  <p>
+    🧬 I am particularly interested in the contribution of X chromosome dosage compensation to sex-biased gene expression and its implications.
+  </p>
+  <p>
+    🧪 While I am primarily a computational biologist, I have an extensive wet lab background and my ultimate goal is to validate my computational findings in the lab.
+  </p>
+  <p>
+    😼 Outside of my research, you can find me reading in the park, knitting sweaters, taking a pilates class, or playing with my two tuxedo cats, Bheem and Inkblot.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg

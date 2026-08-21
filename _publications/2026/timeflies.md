@@ -9,7 +9,7 @@ pub_last:       ' <span class="badge badge-pill badge-publication badge-primary"
 pub_date:       "2026"
 abstract: >-
   We introduce TimeFlies, a pan-cell-type snRNA-seq deep learning aging clock for the Drosophila melanogaster head that predicts donor cell age and uses explainability methods to reveal sex-biased mechanisms and key lncRNA biomarkers driving aging.
-# cover:
+cover: /assets/images/covers/drosophila.png
 authors:
   - Nikolai Tennant*
   - Ananya Pavuluri*

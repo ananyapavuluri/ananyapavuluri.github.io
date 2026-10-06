@@ -11,7 +11,7 @@ abstract: >-
   We present the Xella Clock, a novel deep learning-based epigenetic aging clock optimized for menstrual fluid and endometrial tissue that outperforms existing models at predicting chronological age in female reproductive samples.
 cover:          /assets/images/covers/xellaclock.png
 authors:
-  - Ananya Pavuluri*
+  - Ananya Pavuluri
   - Billie Gould
   - Amit Indap
   - Nadiia Salakh
